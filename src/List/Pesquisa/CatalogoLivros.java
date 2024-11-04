@@ -55,5 +55,7 @@ public class CatalogoLivros {
         return livroPorTitulo;
     }
 
+    public static void main(String[] args) {
 
+    }
 }
